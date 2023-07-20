@@ -1,0 +1,274 @@
+{
+  "fournisseurs": [
+    {
+      "name": "HP Inc.",
+      "address": "123 Rue des Fournisseurs, Ville, Pays",
+      "phone": "0123456789",
+      "category": ["Informatique", "Bureautique"],
+      "products": [
+        {
+         "name": "Ordinateur portable",
+          "category": "Informatique",
+          "brand": "HP",
+          "unit_price": 999.99
+        },
+        {
+          "name": "Imprimante multifonction",
+          "category": "Bureautique",
+          "brand": "HP",
+          "unit_price": 299.99
+        }
+      ]
+    },
+    {
+      "name": "Canon Inc.",
+      "address": "456 Rue des Fournisseurs, Ville, Pays",
+      "phone": "9876543210",
+      "category": ["Photographie", "Bureautique"],
+      "products": [
+        {
+          "name": "Appareil photo reflex",
+          "category": "Photographie",
+          "brand": "Canon",
+          "unit_price": 899.99
+        },
+        {
+          "name": "Imprimante laser",
+          "category": "Bureautique",
+          "brand": "Canon",
+          "unit_price": 399.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau A",
+      "address": "789 Rue Elm",
+      "phone": "555-9101",
+      "category": ["Électronique", "Bureautique", "Informatique"],
+      "products": [
+        {
+          "name": "Ordinateur portable",
+          "category": "Informatique",
+          "brand": "Lenovo",
+          "unit_price": 799.99
+        },
+        {
+          "name": "Imprimante",
+          "category": "Bureautique",
+          "brand": "HP",
+          "unit_price": 299.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau B",
+      "address": "456 Avenue Oak",
+      "phone": "555-5678",
+      "category": ["Meubles", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Chaise de bureau",
+          "category": "Meubles",
+          "brand": "Steelcase",
+          "unit_price": 299.99
+        },
+        {
+          "name": "Bureau",
+          "category": "Meubles",
+          "brand": "IKEA",
+          "unit_price": 149.99
+        },
+        {
+          "name": "Papier",
+          "category": "Fournitures de Bureau",
+          "brand": "Xerox",
+          "unit_price": 9.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau C",
+      "address": "123 Rue Main",
+      "phone": "555-1234",
+      "category": ["Électronique", "Produits de Nettoyage"],
+      "products": [
+        {
+          "name": "Écran d'Ordinateur",
+          "category": "Informatique",
+          "brand": "Dell",
+          "unit_price": 249.99
+        },
+        {
+          "name": "Nettoyant Désinfectant",
+          "category": "Produits de Nettoyage",
+          "brand": "Lysol",
+          "unit_price": 6.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau D",
+      "address": "321 Rue Maple",
+      "phone": "555-9876",
+      "category": ["Électronique", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Souris sans fil",
+          "category": "Électronique",
+          "brand": "Logitech",
+          "unit_price": 29.99
+        },
+        {
+          "name": "Stylo",
+          "category": "Fournitures de Bureau",
+          "brand": "Pilot",
+          "unit_price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau E",
+      "address": "567 Avenue Pine",
+      "phone": "555-6543",
+      "category": ["Informatique", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Clavier sans fil",
+          "category": "Informatique",
+          "brand": "Microsoft",
+          "unit_price": 39.99
+        },
+        {
+          "name": "Dossier suspendu",
+          "category": "Fournitures de Bureau",
+          "brand": "Avery",
+          "unit_price": 12.99
+        },
+        {
+          "name": "Stylo",
+          "category": "Fournitures de Bureau",
+          "brand": "Pilot",
+          "unit_price": 2.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau F",
+      "address": "987 Rue Oak",
+      "phone": "555-7890",
+      "category": ["Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Tapis de souris",
+          "category": "Fournitures de Bureau",
+          "brand": "3M",
+          "unit_price": 7.99
+        },
+        {
+          "name": "Papier",
+          "category": "Fournitures de Bureau",
+          "brand": "Xerox",
+          "unit_price": 9.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau G",
+      "address": "741 Avenue Pine",
+      "phone": "555-3210",
+      "category": ["Électronique", "Informatique"],
+      "products": [
+        {
+          "name": "Écran d'Ordinateur",
+          "category": "Informatique",
+          "brand": "Samsung",
+          "unit_price": 279.99
+        },
+        {
+          "name": "Imprimante",
+          "category": "Informatique",
+          "brand": "Canon",
+          "unit_price": 319.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau H",
+      "address": "852 Rue Maple",
+      "phone": "555-4567",
+      "category": ["Meubles", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Chaise de bureau",
+          "category": "Meubles",
+          "brand": "IKEA",
+          "unit_price": 199.99
+        },
+        {
+          "name": "Bureau",
+          "category": "Meubles",
+          "brand": "Steelcase",
+          "unit_price": 319.99
+        },
+        {
+          "name": "Stylo",
+          "category": "Fournitures de Bureau",
+          "brand": "Parker",
+          "unit_price": 14.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau I",
+      "address": "963 Avenue Elm",
+      "phone": "555-5678",
+      "category": ["Informatique", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Clé USB",
+          "category": "Informatique",
+          "brand": "SanDisk",
+          "unit_price": 19.99
+        },
+        {
+          "name": "Tapis de souris",
+          "category": "Fournitures de Bureau",
+          "brand": "3M",
+          "unit_price": 6.99
+        }
+      ]
+    },
+    {
+      "name": "Fournisseur de Bureau J",
+      "address": "369 Rue Oak",
+      "phone": "555-9876",
+      "category": ["Meubles", "Fournitures de Bureau"],
+      "products": [
+        {
+          "name": "Chaise de bureau",
+          "category": "Meubles",
+          "brand": "Herman Miller",
+          "unit_price": 599.99
+        },
+        {
+          "name": "Bureau",
+          "category": "Meubles",
+          "brand": "IKEA",
+          "unit_price": 149.99
+        },
+        {
+          "name": "Papier",
+          "category": "Fournitures de Bureau",
+          "brand": "Xerox",
+          "unit_price": 9.99
+        },
+        {
+          "name": "Stylo",
+          "category": "Fournitures de Bureau",
+          "brand": "Parker",
+          "unit_price": 14.99
+        }
+      ]
+    }
+  ]
+}

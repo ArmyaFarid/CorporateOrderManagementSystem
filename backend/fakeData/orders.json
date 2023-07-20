@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ordinateur portable",
+    "category": "Informatique",
+    "brand": "HP",
+    "unit_price": 999.99,
+    "quantity": 10,
+    "state": "Disponible"
+  },
+  {
+    "id": 2,
+    "name": "Imprimante multifonction",
+    "category": "Bureautique",
+    "brand": "Canon",
+    "unit_price": 299.99,
+    "quantity": 5,
+    "state": "Disponible"
+  },
+  {
+    "id": 3,
+    "name": "Chaise de bureau",
+    "category": "Mobilier",
+    "brand": "ErgoMax",
+    "unit_price": 149.99,
+    "quantity": 20,
+    "state": "Disponible"
+  },
+  {
+    "id": 4,
+    "name": "Projecteur de présentation",
+    "category": "Audiovisuel",
+    "brand": "Epson",
+    "unit_price": 499.99,
+    "quantity": 8,
+    "state": "Disponible"
+  },
+  {
+    "id": 5,
+    "name": "Écran LCD 27 pouces",
+    "category": "Informatique",
+    "brand": "Dell",
+    "unit_price": 349.99,
+    "quantity": 15,
+    "state": "Disponible"
+  },
+  {
+    "id": 6,
+    "name": "Armoire de rangement",
+    "category": "Mobilier",
+    "brand": "Steelcase",
+    "unit_price": 199.99,
+    "quantity": 10,
+    "state": "Disponible"
+  },
+  {
+    "id": 7,
+    "name": "Câble HDMI",
+    "category": "Accessoires",
+    "brand": "Belkin",
+    "unit_price": 9.99,
+    "quantity": 50,
+    "state": "Disponible"
+  },
+  {
+    "id": 8,
+    "name": "Casque audio",
+    "category": "Audiovisuel",
+    "brand": "Sony",
+    "unit_price": 79.99,
+    "quantity": 25,
+    "state": "Disponible"
+  },
+  {
+    "id": 9,
+    "name": "Clavier sans fil",
+    "category": "Informatique",
+    "brand": "Logitech",
+    "unit_price": 49.99,
+    "quantity": 30,
+    "state": "Disponible"
+  },
+  {
+    "id": 10,
+    "name": "Calculatrice scientifique",
+    "category": "Bureautique",
+    "brand": "Casio",
+    "unit_price": 19.99,
+    "quantity": 12,
+    "state": "Disponible"
+  }
+]

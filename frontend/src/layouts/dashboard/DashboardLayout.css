@@ -1,0 +1,14 @@
+.dashboard-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+.main-content {
+    margin-top: 60px; /* Height of the header + some spacing */
+    margin-left: 280px; /* Sidebar width */
+    padding: 20px;
+    background-color: #F5F5F5;
+    width: 100%;
+}

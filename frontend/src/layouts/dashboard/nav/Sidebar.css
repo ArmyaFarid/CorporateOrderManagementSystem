@@ -1,0 +1,114 @@
+/* Define styles for the sidebar */
+.sidebar {
+    width: 280px;
+    height: 100vh;
+    background-color: #7FA9C1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app-title{
+    margin-top: 20px;
+}
+
+.profile{
+    margin-top: 50px;
+}
+
+.info{
+    text-align: center;
+}
+
+.info >h5{
+    font-weight: 700;font-size: 17px;line-height: 21px;color: #000000;margin:0;
+}
+
+.info > span{
+    text-align: center;
+}
+
+/* Define styles for the navigation */
+.nav {
+    list-style-type: none;
+    padding: 0;
+    margin-top: auto; /* Move to the bottom */
+}
+
+.nav li {
+    margin-bottom: 5px;
+    width: 200px;
+    height: 40px;
+}
+
+.nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.nav li:hover {
+    background-color: #0075FE;
+}
+
+.nav-active{
+    background-color: #0075FE;
+    border-radius: 4px;
+}
+
+
+.profile-pic{
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+    /*background-color: red;*/
+}
+
+.app-title{
+    /* CRUD OPERATIONS */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.nav-icon {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.nav-icon svg {
+    margin-right: 8px; /* Add spacing between the icon and text */
+}
+
+.nav-text {
+    margin-left: 1em;
+}
+
+
+.main-nav {
+    margin-top: 50px;
+}
+
+.logout-nav >li{
+    margin-top: auto;
+}
