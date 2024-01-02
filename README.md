@@ -37,33 +37,32 @@ The Corporate Order Management System (COMS) is a robust application designed to
     cd CorporateOrderManagementSystem
     ```
 
-3. Create a `.env` file with the required environment variables. You can use the provided `.env.example` as a template:
-
-    ```bash
-    cp .env.example .env
-    ```
-
-    Edit the `.env` file with your specific configuration.
-
-4. Build and run the application using Docker Compose:
+3. Build and run the application using Docker Compose:
 
     ```bash
     docker-compose up -d
     ```
 
-5. Access the Corporate Order Management System through your web browser at [http://localhost:3000](http://localhost:3000).
+4. Access the Corporate Order Management System through your web browser at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
 1. Navigate to the application in your web browser.
 
-2. Log in using your corporate credentials.
 
-3. Start placing and tracking internal orders, managing vendors, and ensuring timely delivery of essential resources.
+2. Start placing and tracking internal orders, managing vendors, and ensuring timely delivery of essential resources.
+
+## Stack Used
+
+- **Frontend**: [React](https://reactjs.org/)
+- **Backend**: [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
+- **Database**: [MongoDB](https://www.mongodb.com/)
+
 
 ## Contributing
 
-If you'd like to contribute to the development of the Corporate Order Management System, please follow our [contribution guidelines](CONTRIBUTING.md).
+The app provide just the basic functionalities and overview of have a such app can work regardless security concern, but improvement will be done soon.
+If you'd like to contribute to the development of the Corporate Order Management System, your are free
 
 ## License
 
@@ -71,6 +70,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any issues or inquiries, please contact our support team at support@example.com.
+As the Corporate Order Management System is still in development, we currently do not provide direct support. However, we encourage users to fork the project, make improvements, and adapt it to their specific needs. Feel free to explore the codebase and contribute to the enhancement of this system.
 
-Thank you for using the Corporate Order Management System! We appreciate your commitment to efficient internal operations.
+For any inquiries or discussions, you can open issues in the repository or connect with the community. We appreciate your understanding and enthusiasm for contributing to the project.
+
+Thank you for your interest in the my demo app!
