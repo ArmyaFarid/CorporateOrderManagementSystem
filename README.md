@@ -28,7 +28,7 @@ The Corporate Order Management System (COMS) is a robust application designed to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/CorporateOrderManagementSystem.git
+    git clone https://github.com/ArmyaFarid/CorporateOrderManagementSystem.git
     ```
 
 2. Navigate to the project directory:
